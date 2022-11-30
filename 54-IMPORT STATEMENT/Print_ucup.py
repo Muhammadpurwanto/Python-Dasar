@@ -1,0 +1,2 @@
+nama = "ucup"
+print(nama)
